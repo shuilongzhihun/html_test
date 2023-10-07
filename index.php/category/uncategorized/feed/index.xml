@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; meta</title>
+	<title>Uncategorized &#8211; LIDAR-NET</title>
 	<atom:link href="/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>An indoor point cloud dataset.</description>
 	<lastBuildDate>Mon, 02 Oct 2023 16:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>

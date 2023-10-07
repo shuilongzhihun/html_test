@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments for meta	</title>
+	Comments for LIDAR-NET	</title>
 	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>An indoor point cloud dataset.</description>
 	<lastBuildDate>Mon, 02 Oct 2023 16:03:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
