@@ -4,19 +4,22 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
 	<atom:link href="/index.php/2023/10/02/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/index.php/2023/10/02/hello-world/</link>
-	<description>An indoor point cloud dataset.</description>
+	<description>A Real-scanned 3D Point Cloud Dataset for Indoor Scenes</description>
 	<lastBuildDate>Mon, 02 Oct 2023 16:03:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
