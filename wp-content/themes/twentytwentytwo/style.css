@@ -35,12 +35,14 @@ body {
  */
 
 a {
+	color:#66ccff;
 	text-decoration-thickness: 1px;
 	text-underline-offset: 0.25ch;
 }
 
 a:hover,
 a:focus {
+	color:#66ccff;
 	text-decoration-style: dashed;
 }
 
@@ -50,6 +52,7 @@ a:active {
 
 .wp-block-navigation .wp-block-navigation-item a:hover,
 .wp-block-navigation .wp-block-navigation-item a:focus {
+	color:#66ccff;
 	text-decoration: underline;
 	text-decoration-style: solid;
 }
